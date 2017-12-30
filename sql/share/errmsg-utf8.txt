@@ -7828,8 +7828,8 @@ ER_VERS_ENGINE_UNSUPPORTED
 ER_VERS_RANGE_UNITS_MISMATCH
         eng "Range units mismatch"
 
-ER_NON_VERSIONED_FIELD_IN_VERSIONED_QUERY
-        eng "Attempt to read non-temporal field %`s in historical query"
+ER_NON_VERSIONED_FIELD_IN_HISTORICAL_QUERY
+        eng "Non-versioned field %`s in historical query"
 
 ER_PARTITION_WRONG_TYPE
         eng "Wrong partitioning type, expected type: %`s"
